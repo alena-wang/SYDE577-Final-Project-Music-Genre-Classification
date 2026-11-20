@@ -1,0 +1,2 @@
+configuration,hidden_sizes,learning_rate,dropout,parameter_count,runs,mean_best_validation_accuracy_pct,sd_best_validation_accuracy_pp,mean_accuracy_gap_pp
+deep-dropout-0.2,"[128, 64, 32]",0.001,0.2,19882,1,32.666666666666664,,-2.4806866952789717

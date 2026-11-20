@@ -1,0 +1,21 @@
+{
+  "seed": 577,
+  "split_seed": 577,
+  "parameter_count": 19882,
+  "batch_size": 32,
+  "learning_rate": 0.001,
+  "patience": 12,
+  "train_examples": 699,
+  "smoke": false,
+  "epochs_run": 29,
+  "best_epoch": 17,
+  "best_validation_accuracy": 0.7133333333333334,
+  "max_epochs": 100,
+  "architecture": "deep",
+  "hidden_sizes": [
+    128,
+    64,
+    32
+  ],
+  "dropout": 0.0
+}

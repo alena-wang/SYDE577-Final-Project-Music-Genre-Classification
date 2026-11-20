@@ -1,0 +1,24 @@
+{
+  "split_seed": 577,
+  "batch_size": 32,
+  "max_epochs": 2,
+  "patience": 12,
+  "smoke": false,
+  "dataset_sha256": "3ee65314378053e9e6e3f26ec05b6e4320fcd8cf78c997d4014eb655ba6c0b50",
+  "seeds": [
+    577
+  ],
+  "configurations": {
+    "deep-dropout-0.2": {
+      "hidden_sizes": [
+        128,
+        64,
+        32
+      ],
+      "learning_rate": 0.001,
+      "dropout": 0.2
+    }
+  },
+  "torch_version": "2.8.0",
+  "torch_threads": 4
+}

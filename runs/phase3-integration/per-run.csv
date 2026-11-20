@@ -1,0 +1,2 @@
+configuration,seed,split_seed,parameter_count,batch_size,learning_rate,patience,train_examples,smoke,epochs_run,best_epoch,best_validation_accuracy,best_validation_loss,train_accuracy_at_best_epoch,accuracy_gap_pp,duration_seconds,max_epochs,architecture,hidden_sizes,dropout
+deep-dropout-0.2,577,577,19882,32,0.001,12,699,False,2,2,0.32666666666666666,2.0553724733988443,0.30185979971387694,-2.4806866952789717,0.5588923330000001,2,deep-dropout-0.2,"[128, 64, 32]",0.2

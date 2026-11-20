@@ -1,0 +1,11 @@
+actual / predicted,blues,classical,country,disco,hiphop,jazz,metal,pop,reggae,rock
+blues,11,0,1,0,0,0,1,0,2,0
+classical,0,14,0,0,0,1,0,0,0,0
+country,1,0,9,1,0,1,0,0,0,3
+disco,0,0,0,11,2,0,0,1,0,1
+hiphop,0,0,0,1,8,0,0,3,3,0
+jazz,0,1,0,0,0,12,0,2,0,0
+metal,1,0,0,2,1,0,10,0,1,0
+pop,0,0,1,0,0,0,0,11,3,0
+reggae,0,0,0,0,1,0,0,2,8,4
+rock,0,0,0,1,0,0,0,0,1,13

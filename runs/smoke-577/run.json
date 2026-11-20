@@ -1,0 +1,13 @@
+{
+  "seed": 577,
+  "split_seed": 577,
+  "parameter_count": 5258,
+  "batch_size": 32,
+  "learning_rate": 0.001,
+  "patience": 12,
+  "train_examples": 40,
+  "smoke": true,
+  "epochs_run": 2,
+  "best_epoch": null,
+  "best_validation_accuracy": null
+}
