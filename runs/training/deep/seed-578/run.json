@@ -1,0 +1,25 @@
+{
+  "seed": 578,
+  "split_seed": 577,
+  "parameter_count": 19882,
+  "batch_size": 32,
+  "learning_rate": 0.001,
+  "patience": 12,
+  "train_examples": 699,
+  "smoke": false,
+  "epochs_run": 46,
+  "best_epoch": 34,
+  "best_validation_accuracy": 0.7333333333333333,
+  "best_validation_loss": 1.2664442189534506,
+  "train_accuracy_at_best_epoch": 0.9985693848354793,
+  "accuracy_gap_pp": 26.523605150214603,
+  "duration_seconds": 0.4106809999999994,
+  "max_epochs": 100,
+  "architecture": "deep",
+  "hidden_sizes": [
+    128,
+    64,
+    32
+  ],
+  "dropout": 0.0
+}

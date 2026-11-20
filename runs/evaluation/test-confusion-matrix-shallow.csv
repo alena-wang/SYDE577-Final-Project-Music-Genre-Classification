@@ -1,0 +1,11 @@
+actual / predicted (five-seed count sum),blues,classical,country,disco,hiphop,jazz,metal,pop,reggae,rock
+blues,58,0,1,0,0,5,0,0,1,10
+classical,0,70,0,0,0,3,0,0,0,2
+country,6,1,35,5,0,2,0,8,0,18
+disco,2,0,10,20,9,0,4,10,7,13
+hiphop,2,0,0,5,49,3,6,5,5,0
+jazz,0,1,0,1,0,64,0,0,0,9
+metal,2,0,1,7,6,0,53,0,0,6
+pop,1,0,0,0,1,4,0,69,0,0
+reggae,0,0,1,7,4,3,1,1,50,8
+rock,4,0,13,2,0,0,2,5,5,44

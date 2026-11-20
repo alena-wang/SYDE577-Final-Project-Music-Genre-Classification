@@ -1,0 +1,17 @@
+{
+  "dataset": "3ee65314378053e9e6e3f26ec05b6e4320fcd8cf78c997d4014eb655ba6c0b50",
+  "plan": "0f48b69962b76e77dfc6dd63baae2edb62c0c1dd3a719185d568590937f330ce",
+  "phase3_plan": "afdfc0d72c6a46f4328d12b85d05de1b8e877ed79d858014377012dc07126128",
+  "checkpoints": {
+    "shallow/seed-577/best.pt": "f3525677cfb2fa3d98e8e5f133a39164f10434d617ca6cef297f57c9db6d7171",
+    "shallow/seed-578/best.pt": "cf1af39ebd180c2d9f2cd5ba0599009b7abca0a0473088c70ed9a6743f299dfd",
+    "shallow/seed-579/best.pt": "381980481dcb0f6a447b572c4a37d3fb1640eb7e43258b472488dac946f1935b",
+    "shallow/seed-580/best.pt": "ce9561ca033bd0e4c866db051bd88971c95929f8145719fe0ed2014517e48aef",
+    "shallow/seed-581/best.pt": "b0ff799c25a3374db27f68ef3006c1adecc53cadb8683aab7cb633b6e0c428d2",
+    "deep/seed-577/best.pt": "83ab7796a3b89d0e00bc4eda6bbe11fff7d0f3717354744b292c958f7935f9a7",
+    "deep/seed-578/best.pt": "4dac16076298a62f8f8a5be4ad03f758b0616f2bf6129d033bb835b319b7991a",
+    "deep/seed-579/best.pt": "2a0aeff95664d422bd2e9e727fc2fa64dac8b6b72fde93b5704bd00415189d95",
+    "deep/seed-580/best.pt": "03475199b4ee7da21abc283a455ad28caaf7d88901859a0fe36b3470b0b7abab",
+    "deep/seed-581/best.pt": "810800dd33f4ab0784f5d7773522afa3c102f052eeb773888f12c92030ff61ae"
+  }
+}

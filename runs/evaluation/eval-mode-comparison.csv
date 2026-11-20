@@ -1,0 +1,3 @@
+configuration,hidden_sizes,learning_rate,dropout,runs,parameter_count,mean_train_accuracy_pct,mean_validation_accuracy_pct,sd_validation_accuracy_pp,mean_train_loss,mean_validation_loss,mean_accuracy_gap_pp,mean_best_epoch
+shallow,[64],0.001,0.0,5,5258,92.90414878397712,68.26666666666667,1.5347819244295093,0.3138792511901801,1.0471514027913411,24.63748211731044,35.8
+deep,"[128, 64, 32]",0.001,0.0,5,19882,97.76824034334764,69.73333333333333,3.4189017079888235,0.11650435645479672,1.2876546071370443,28.034907010014308,24
